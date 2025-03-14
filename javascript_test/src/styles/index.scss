@@ -18,16 +18,12 @@ a:hover {
   color: #535bf2;
 }
 
-ul {
-  list-style: none;
-  padding: 0;
-  margin: 0;
-}
-
-li {
-  list-style-type: none;
-}
-
 body {
   margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 64px;
+  color: #33323b;
+  text-align: center;
 }
